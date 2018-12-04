@@ -1,12 +1,9 @@
 
 Java Spring Boot rest /get
-```bash
-
 
 Dependencies:
   - openjdk 1.8.0
   - apach-maven 3.3.9
-
 
 ```bash
 $ java -version
